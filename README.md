@@ -1,0 +1,2 @@
+# CNN-CIFAR10
+A CNN model for CIFAR 10
